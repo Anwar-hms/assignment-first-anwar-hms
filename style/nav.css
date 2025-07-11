@@ -1,4 +1,7 @@
 /*nav logo,SignUp*/  
+body{
+    background-color: #4d47ff1a;
+}
 .header{
     background-image: url(../Assets/Hero-bg.png);
     width: 1440px;
@@ -66,12 +69,14 @@ nav ul li{
 /* section tow*/
 .section-tow{
     background-color: #4d47ff2f;
+    margin: 141px;
 }
 .s-tow-h{
     font-size: 38px;
     font-weight: bold;
     color: #252432;
     text-align: center;
+    margin-top: 20px;
 }
 .s-tow-div{
     font-size: 20px;
@@ -92,4 +97,21 @@ nav ul li{
 .div-main{
     margin: 142px 50px;
     align-items: center;
+}
+/*section three*/
+.section-three{
+    background-color: #FFFFFF;
+    text-align: center;
+    margin: 151px;
+    padding: 40px 25px ;
+}
+.s-three-h{
+    font-size: 50px;
+    font-weight: bold;
+}
+.img-s-three{
+    border-radius: 48px;
+}
+.img-div-three-s{
+    margin-top: 20px;
 }
