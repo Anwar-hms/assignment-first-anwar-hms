@@ -76,7 +76,6 @@ nav ul li{
     font-weight: bold;
     color: #252432;
     text-align: center;
-    margin-top: 20px;
 }
 .s-tow-div{
     font-size: 20px;
@@ -115,3 +114,52 @@ nav ul li{
 .img-div-three-s{
     margin-top: 20px;
 }
+
+/*section four*/
+.section-four{
+    margin: 150px;
+}
+.div-hader-s-four{
+    font-size: 98px;
+    font-weight: bold;
+}
+.s-four-div-mian{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.div-line{
+    display: block;
+    padding: 20px;
+   
+}
+.btn-s-four{
+   border-radius: 10px;
+   background-color: #4E47FF;
+   padding: 19px;
+   width: 497px;
+   height: 62px;
+   color: #FFFFFF;
+   font-size: 16px;
+   align-items: center;
+}
+
+.div-form-four-s{
+    margin-left: 20px;
+    width: 497px;
+    height: 490px;
+}
+.input{
+    padding: 19px;
+  width: 497px;
+  
+}
+.input-msg{
+    padding: 19px;
+    width: 497px;
+    height: 90px;
+
+}
+    
