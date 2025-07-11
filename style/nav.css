@@ -162,4 +162,35 @@ nav ul li{
     height: 90px;
 
 }
+/*Footer secation*/
+footer{
+    width: 1440px;
+    background-color: #FFFFFF;
+    padding-bottom: 30px;
+}
+.div-footer{
+    font-size: 18px;
+    color: #8987A1;
+    text-align: center;
+}
+.f-div-hader{
+    font-size: 100px;
+    font-weight: 900;
+    text-align: center;
+    color: #4E47FF;
+}
+
+ ul li{
+list-style: none;
+}
+ a{
+    text-decoration: none;
+}
+.div-footer-list{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    
+}
+
     
